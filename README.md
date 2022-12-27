@@ -13,3 +13,10 @@ There are 2 goals of this project:
 
 ## Dataset:
 There are 3 datasets used in this project, all of which are taken from the NYC OpenData website. The "Motor Vehicle Collisions - Crashes" dataset maintained by NYPD was used to obtain information on number and severity of accidents. The traffic volume and traffic speed information was obtained from datasets maintained by Metropolitan Transportation Authority (MTA) and Traffic Management Center (TMC) respectively. The links to all the datasets are provided in the data directory.
+
+
+
+<br/>
+
+## Analysis:
+
