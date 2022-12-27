@@ -1,0 +1,10 @@
+.custom-panel {
+    opacity: 0.60;
+    filter: alpha(opacity=60);
+    transition:opacity 1s;
+}
+
+.custom-panel:hover{
+    opacity: 0.90;
+    filter: alpha(opacity=90);
+}
