@@ -24,6 +24,8 @@ The below analysis is performed on data 1 year prior to and during lockdown. The
 
 <img src="figs/Volume.PNG" width="550" height="300">  
 
+<img src="figs/Number_C.PNG" width="550" height="300"> 
+
 <br/>
 
 Though the above displayed graphs are for aggregated data at city level, similar trends were observed at each borough level.
