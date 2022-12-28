@@ -20,13 +20,35 @@ There are 3 datasets used in this project, all of which are taken from the NYC O
 
 ## Analysis:
 
+[Shefer and Rietveld, 1997](https://doi.org/10.1080/0042098975970) proposes that as the traffic density increases the number of accidents also increases, which seems intuitive. However, what's counter-intuitive at the first glance is that relation between traffic density and accident severity. Shefer proposes that as the traffic density decreases the severity of the accidents increases, because in lower traffic densities people tend to drive their cars faster. In this section we will see Shefer's thesis conforms with the accidents in NYC during the lockdown.
+
 The below analysis is performed on data 1 year prior to and during lockdown. The gray dotted line in the graphs indicate the lockdown commencement.
 
 <img src="figs/Volume.PNG" width="550" height="300">  
 
 <img src="figs/Number_C.PNG" width="550" height="300"> 
 
+As expected, we can see that the traffic volume decreased when the lockdown was announced. As the same time, we also observe a sharp decrease the the number of accidents happening in NYC.
+
 <br/>
 
-Though the above displayed graphs are for aggregated data at city level, similar trends were observed at each borough level.
+<img src="figs/Number_C.PNG" width="550" height="300"> 
+
+<img src="figs/Number_I.PNG" width="550" height="300"> 
+
+<img src="figs/Number_K.PNG" width="550" height="300"> 
+
+However, at the same time when the total number of accidents decreased, it seems that the total number of people getting injured did not decrease as sharply as the number of accidents. What's even more disturbing is the fact that the number of deaths due to road accidents seems to have increased in the same period.
+
+<br/>
+
+<img src="figs/IperC.PNG" width="550" height="300"> 
+
+<img src="figs/KperC.PNG" width="550" height="300"> 
+
+The above plots show the numnber of people getting injured and killed per accident (which is a measure of accident severity), and we can see that the severity of accidents significantly shot up during the lockdown.
+
+<br/>
+
+Though the above displayed graphs are for aggregated data at city level, similar trends were observed at each borough level. So, we see that results observed conform with [Shefer and Rietveld, 1997](https://doi.org/10.1080/0042098975970) , and hence when any traffic policy is passed it is ess
 
