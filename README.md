@@ -57,6 +57,10 @@ Though the above displayed graphs are for aggregated data at city level, similar
 
 ## R Shiny app:
 
-Link for the app: 
+Link for the app: https://projectoogway.shinyapps.io/Group4-Applied_Data_Science/
+
+The R Shiny app shows a heat map for the accident prone regions in the city. A shift in the accident prone regions might be a cause of concern and reasons for the shift can be investigated to ensure that it is not a result of any adverse affects of a policy recently passed.
 
 <img src="figs/display.jpg" width="1000" height="700"> 
+
+The heatmap map page of the app has toggles to switch between type of injuries, entities involved in the collisions, borough and a time slider to observe changes over time. The graphs page of app shows aggregated results of all the data with same toggles as the heatmap page.
