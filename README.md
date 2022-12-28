@@ -52,3 +52,9 @@ The above plots show the numnber of people getting injured and killed per accide
 
 Though the above displayed graphs are for aggregated data at city level, similar trends were observed at each borough level. So, we see that results observed conform with [Shefer and Rietveld, 1997](https://doi.org/10.1080/0042098975970), and this shows how complicated it can be to pass any kind of traffic policy. Whenever any kind of policies are passed that might directly impact traffic density, one would like to ensure that the policy did not end up having any unintended consequences. The R Shiny app discussed in the below section provides a convinient way to monitor changes in accident prone regions.
 
+
+<br/>
+
+## R Shiny app:
+
+<img src="figs/display.jpg" width="800" height="500"> 
