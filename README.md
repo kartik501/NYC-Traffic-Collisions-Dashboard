@@ -20,3 +20,11 @@ There are 3 datasets used in this project, all of which are taken from the NYC O
 
 ## Analysis:
 
+The below analysis is performed on data 1 year prior to and during lockdown. The gray dotted line in the graphs indicate the lockdown commencement.
+
+<img src="figs/Volume.png" width="250" height="250">  |  <img src="figs/Number_C.png" width="250" height="250">
+
+<br/>
+
+Though the above displayed graphs are for aggregated data at city level, similar trends were observed at each borough level.
+
