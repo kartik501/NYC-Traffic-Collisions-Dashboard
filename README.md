@@ -28,7 +28,7 @@ The below analysis is performed on data 1 year prior to and during lockdown. The
 
 <img src="figs/Number_C.PNG" width="550" height="300"> 
 
-As expected, we can see that the traffic volume decreased when the lockdown was announced. As the same time, we also observe a sharp decrease the the number of accidents happening in NYC.
+As expected, we can see that the traffic volume decreased when the lockdown was announced. As the same time, we also observe a sharp decrease in the number of accidents happening in NYC.
 
 <br/>
 
