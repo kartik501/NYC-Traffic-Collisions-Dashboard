@@ -57,4 +57,6 @@ Though the above displayed graphs are for aggregated data at city level, similar
 
 ## R Shiny app:
 
+Link for the app: 
+
 <img src="figs/display.jpg" width="1000" height="700"> 
