@@ -1,5 +1,5 @@
 
-Link to the R Shiny app: https://projectoogway.shinyapps.io/Group4-Applied_Data_Science/
+### [App link](https://projectoogway.shinyapps.io/Group4-Applied_Data_Science/)
 
 
 The App directory contains the app files for the Shiny App (i.e., ui.R and server.R).
